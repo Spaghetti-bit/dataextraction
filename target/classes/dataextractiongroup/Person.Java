@@ -1,8 +1,8 @@
 package dataextractiongroup;
 
 public class person{
-    String name;
-    int[] ssn;
-    String email;
-    int phoneNumber;
+    public String name;
+    public String ssn;
+    public String email;
+    public String phoneNumber;
 }
